@@ -1,0 +1,40 @@
+main {
+    padding-bottom: 73px;
+}
+
+.main__info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main__title {
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.main__search {
+    border: 1px solid #F3F3F3;
+    border-radius: 10px;
+    align-items: center;
+    padding: 0 18px;
+}
+
+.main__search-input {
+    border: none;
+}
+
+.main__search-input::placeholder {
+    font-size: 14px;
+    font-weight: 400;
+    color: #C4C4C4;
+}
+
+.main__search-input:focus {
+    outline: none;
+}
+
+.main__items {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

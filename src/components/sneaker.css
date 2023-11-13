@@ -1,0 +1,59 @@
+.sneaker {
+    border-radius: 40px;
+    border: 1px solid #F3F3F3;
+    padding: 29px 30px 34px;
+    position: relative;
+    margin-top: 40px;
+    transition: transform 300ms ease, box-shadow 300ms ease;
+}
+
+.sneaker:hover {
+    transform: translateY(-10px);
+    box-shadow: 0px 14px 30px 0px #0000000D;
+}
+
+.sneaker__likebtn {
+    background-color: transparent;
+    border: 1px solid #F8F8F8;
+    height: 32px;
+    width: 32px;
+    border-radius: 7px;
+    cursor: pointer;
+    z-index: 1000;
+}
+
+.sneaker__img {
+    position: absolute;
+    width: 133px;
+    height: 112px;
+    top: 20px;
+    left: 33px;
+}
+
+.sneaker__info {
+    margin-top: 85px;
+    margin-bottom: 14px;
+    font-size: 14px;
+    font-weight: 400;
+    max-width: 150px;
+}
+
+.sneaker__subinfo {
+    align-items: center;
+}
+
+.sneaker__subinfo-title {
+    font-size: 11px;
+    font-weight: 500;
+    color: #BDBDBD;
+}
+
+.sneaker__addbtn {
+    background-color: transparent;
+    border: 1px solid #F8F8F8;
+    height: 32px;
+    width: 32px;
+    border-radius: 8px;
+    cursor: pointer;
+    float: right;
+}
