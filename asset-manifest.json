@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ksh4kh/react-sneakers.git/static/css/main.8ac2a05e.css",
+    "main.js": "/ksh4kh/react-sneakers.git/static/js/main.f7f7e44d.js",
+    "static/media/header.png": "/ksh4kh/react-sneakers.git/static/media/header.f880a671e4aa9fad2991.png",
+    "static/media/nlxviiil.png": "/ksh4kh/react-sneakers.git/static/media/nlxviiil.427777d5124c2848340b.png",
+    "static/media/nlxviii.png": "/ksh4kh/react-sneakers.git/static/media/nlxviii.f868acd94a1ce56b8330.png",
+    "static/media/nikeam270.png": "/ksh4kh/react-sneakers.git/static/media/nikeam270.6aa5627a9415adbb603f.png",
+    "static/media/nkfiv.png": "/ksh4kh/react-sneakers.git/static/media/nkfiv.2bca2b28a60d87ea5f66.png",
+    "static/media/pxabfr.png": "/ksh4kh/react-sneakers.git/static/media/pxabfr.5aad60ae52900b36c794.png",
+    "static/media/uac8.png": "/ksh4kh/react-sneakers.git/static/media/uac8.266d70e2f3f13b7bd5be.png",
+    "static/media/nikek7.png": "/ksh4kh/react-sneakers.git/static/media/nikek7.a2479305b07b599d3c2f.png",
+    "static/media/jaj11.png": "/ksh4kh/react-sneakers.git/static/media/jaj11.8f6689ad41911d47d5a2.png",
+    "static/media/nikebms.png": "/ksh4kh/react-sneakers.git/static/media/nikebms.aa1bad2336c6df29bdb6.png",
+    "static/media/nikebms2.png": "/ksh4kh/react-sneakers.git/static/media/nikebms2.27a398a4c11854b4de85.png",
+    "static/media/like2.svg": "/ksh4kh/react-sneakers.git/static/media/like2.d491e085580f8e4f1b47f07d9164dc0f.svg",
+    "static/media/like.svg": "/ksh4kh/react-sneakers.git/static/media/like.31c528b014374dd8bafb45d68779796e.svg",
+    "static/media/profile.svg": "/ksh4kh/react-sneakers.git/static/media/profile.381202f7e3edbc1a00b14fbd5e529a32.svg",
+    "static/media/cart.svg": "/ksh4kh/react-sneakers.git/static/media/cart.5113b08fb682dc25f3856ef704a6c05d.svg",
+    "static/media/search.svg": "/ksh4kh/react-sneakers.git/static/media/search.48c52bf5d459537e27c07f88eb08c050.svg",
+    "static/media/add.svg": "/ksh4kh/react-sneakers.git/static/media/add.a4c35ddbacd9564e07efd7494cfde80d.svg",
+    "index.html": "/ksh4kh/react-sneakers.git/index.html",
+    "main.8ac2a05e.css.map": "/ksh4kh/react-sneakers.git/static/css/main.8ac2a05e.css.map",
+    "main.f7f7e44d.js.map": "/ksh4kh/react-sneakers.git/static/js/main.f7f7e44d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ac2a05e.css",
+    "static/js/main.f7f7e44d.js"
+  ]
+}
